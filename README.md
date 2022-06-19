@@ -1,3 +1,3 @@
-# شورتی
+# Shorty
 
-کوتاه کننده لینک با سرعت نور.
+Faster than light link shorter :)
